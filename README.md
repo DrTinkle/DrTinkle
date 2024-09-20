@@ -4,19 +4,19 @@ Welcome to my GitHub! I'm passionate about coding, problem-solving, and creating
 
 ## 🌟 Featured Projects
 
-### [WheresTheBeer](https://github.com/yourusername/WheresTheBeer) (In Development)
+### [WheresTheBeer](https://github.com/drtinkle/WheresTheBeer) (In Development)
 A Blazor WebAssembly app that helps users locate nearby places that serve beer using the Google Places API. The app is designed as a PWA with Azure hosting, allowing users to find their next favorite spot with ease.
 [Check it out](https://wheresthebeer.azurewebsites.net/)
 
-### [Quench Quest](https://drtinkle.itch.io/quenchquest) (In Development)
+### [Quench Quest](https://github.com/drtinkle/QuenchQuest) (In Development)
 **Upcoming lemonade tycoon rogue-like game**  
 Step into the role of a savvy lemonade stand manager and build your business from the ground up. In this interactive simulation game, you must balance your inventory of lemons and sugar, react to fluctuating market prices, and serve thirsty customers. Buy ingredients at the right price, create the perfect lemonade recipe, and maximize your profits!
 Check out at [itch.io](https://drtinkle.itch.io/quenchquest/)
 
-### [City/State SEO Wordpress Plugin](https://github.com/yourusername/CityStateSEO)
+### [City/State SEO Wordpress Plugin](https://github.com/drtinkle/CityStateSEO)
 A plugin I developed to automate local SEO optimization for businesses. The **City/State SEO Plugin** generates city- and state-specific posts automatically, enriching websites with localized content and structured data for better local search engine visibility. 
 
-### [Simple Hockey](https://github.com/yourusername/SimpleHockey)
+### [Simple Hockey](https://github.com/drtinkle/SimpleHockey)
 My first independent project and a minimalist take on hockey in the form of a 2D game developed in Unity.
 Check out at [itch.io](https://drtinkle.itch.io/simple-hockey/)
 
