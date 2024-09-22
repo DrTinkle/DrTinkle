@@ -36,7 +36,7 @@ I have designed and developed several websites, each tailored to specific busine
   A simplified version of Acorn Business Buyers with enhanced visuals. It also incorporates my **City/State SEO Plugin** for better local search optimization.
 
 - [glowo.net](https://glowo.net)  
-  A Finnish recruitment agency website. I built the front-end visuals and also automated the article creation process to streamline content updates.
+  A Finnish recruitment agency website. I maintained the front-end visuals and automated the article creation process to streamline content updates.
 
 
 ## 📈 Main Tech Stack & Skills
