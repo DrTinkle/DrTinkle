@@ -23,7 +23,7 @@ Check out at [itch.io](https://drtinkle.itch.io/simple-hockey/)
 ## 🔥 Contributions
 
 ### [steamdata](https://github.com/mmononen/steamdata) (Group project, In developement)
-For the SteamData project, I created the MySQL server on Azure Cloud, set up the tables and database structure, and wrote conversion scripts to insert data into the database. Additionally, I developed a backend interface to import, filter, export, and upload data to the database. This project uses the Steam API and SteamSpy API to gather and analyze data, offering game developers insights into the indie game market. I've also created a diagram for the whole project. You can check that out [here](https://mmononen.github.io/steamdata/).
+For the SteamData project, I created the MySQL server on Azure Cloud, set up the tables and database structure, and wrote conversion scripts to insert data into the database. Additionally, I developed a backend interface to import, filter, export, and upload data to the database. I also created a comprehensive diagram for the entire project, which you can check out [here](https://mmononen.github.io/steamdata/).
 
 ## 🌐 Website Development
 
