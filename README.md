@@ -20,6 +20,9 @@ A plugin I developed to automate local SEO optimization for businesses. The **Ci
 My first independent project and a minimalist take on hockey in the form of a 2D game developed in Unity.
 Check out at [itch.io](https://drtinkle.itch.io/simple-hockey/)
 
+### More Games
+More games I've created during various courses can be found at [sharemygame.com](https://sharemygame.com/@DrTinkle) and [itch.io](https://drtinkle.itch.io/).
+
 ## 🔥 Contributions
 
 ### [steamdata](https://github.com/mmononen/steamdata) (Group project, In developement)
