@@ -1,6 +1,6 @@
 # Hi there, I'm Roy
 
-Welcome to my GitHub! I'm passionate about coding, problem-solving, and creating meaningful digital experiences through technology. Below, you'll find a collection of my personal projects that reflect my interests in software development, game design, and data analysis.
+Welcome to my GitHub! I'm passionate about coding and problem-solving. Below, you'll find a collection of my personal projects that reflect my interests in software development, game design, and data analysis.
 
 ## Featured Projects
 
