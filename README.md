@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm passionate about coding and problem-solving. Below, yo
 
 ## Featured Projects
 
-### [SportsBetSim](https://github.com/drtinkle/SportsBetSim) (Active development)
+### [SportsBetSim](https://github.com/drtinkle/SportsBetSim) (Development on pause)
 
 A browser based betting simulator game built with React. An independent project designed to showcase what I learned from the courses:
 - *"The Complete JavaScript Course 2024: From Zero to Expert"* 
@@ -13,7 +13,7 @@ A browser based betting simulator game built with React. An independent project 
 SportsBetSim dynamically generates sports matchups and odds, allowing users to place bets and experience the mechanics of odds and payouts in a simulated betting environment. 
 [Give the prototype a try here](https://sportsbetsim-front.onrender.com/)
 
-### [WheresTheBeer](https://github.com/drtinkle/WheresTheBeer) (Development on pause)
+### [WheresTheBeer](https://github.com/drtinkle/WheresTheBeer) (Development canceled)
 A Blazor WebAssembly app that helps users locate nearby places that serve beer using the Google Places API. The app is designed as a PWA with Azure hosting, allowing users to find their next favorite spot with ease.
 [Check it out](https://wheresthebeer.azurewebsites.net/)
 
