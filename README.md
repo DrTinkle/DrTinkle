@@ -4,6 +4,13 @@ Welcome to my GitHub! I'm passionate about coding and problem-solving. Below, yo
 
 ## Featured Projects
 
+### [AI-Powered Lead Enrichment](https://github.com/drtinkle/ai-lead-enrichment)
+
+A Python-based company enrichment and acquisition screening tool built with Streamlit and OpenAI.  
+The app analyzes a company domain, extracts website signals, generates structured AI insights and evaluates strategic fit using a weighted scoring model.
+
+[Live demo here](https://web-production-0ea73.up.railway.app)
+
 ### [SportsBetSim](https://github.com/drtinkle/SportsBetSim) (Development on pause)
 
 A browser based betting simulator game built with React. An independent project designed to showcase what I learned from the courses:
