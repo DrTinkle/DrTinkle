@@ -18,7 +18,7 @@ The app parses Linux auth and Nginx access logs, detects suspicious patterns usi
 
 [Live demo here](https://security-log-analyzer-production.up.railway.app)
 
-### [SportsBetSim](https://github.com/drtinkle/SportsBetSim) (Development on pause)
+### [SportsBetSim](https://github.com/drtinkle/SportsBetSim) (On pause)
 
 A browser based betting simulator game built with React. An independent project designed to showcase what I learned from the courses:
 - *"The Complete JavaScript Course 2024: From Zero to Expert"* 
@@ -27,11 +27,11 @@ A browser based betting simulator game built with React. An independent project 
 SportsBetSim dynamically generates sports matchups and odds, allowing users to place bets and experience the mechanics of odds and payouts in a simulated betting environment. 
 [Give the prototype a try here](https://sportsbetsim-front.onrender.com/)
 
-### [WheresTheBeer](https://github.com/drtinkle/WheresTheBeer) (Development canceled)
+### [WheresTheBeer](https://github.com/drtinkle/WheresTheBeer) (Canceled)
 A Blazor WebAssembly app that helps users locate nearby places that serve beer using the Google Places API. The app is designed as a PWA with Azure hosting, allowing users to find their next favorite spot with ease.
 [Check it out](https://wheresthebeer.azurewebsites.net/)
 
-### [Quench Quest](https://github.com/drtinkle/QuenchQuest) (Development on pause)
+### [Quench Quest](https://github.com/drtinkle/QuenchQuest) (On pause)
 **Upcoming lemonade tycoon rogue-like game**  
 Step into the role of a savvy lemonade stand manager and build your business from the ground up. In this interactive simulation game, you must balance your inventory of lemons and sugar, react to fluctuating market prices, and serve thirsty customers. Buy ingredients at the right price, create the perfect lemonade recipe, and maximize your profits!
 Check out at [itch.io](https://drtinkle.itch.io/quenchquest/)
