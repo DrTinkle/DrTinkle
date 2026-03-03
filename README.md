@@ -11,6 +11,13 @@ The app analyzes a company domain, extracts website signals, generates structure
 
 [Live demo here](https://web-production-0ea73.up.railway.app)
 
+### [Security Log Analyzer](https://github.com/drtinkle/security-log-analyzer)
+
+A Python-based security log analysis tool built with FastAPI and the Anthropic Claude API.  
+The app parses Linux auth and Nginx access logs, detects suspicious patterns using a rule-based engine, and classifies threats on-demand using AI — outputting severity, threat type, and analyst explanations.
+
+[Live demo here](https://security-log-analyzer-production.up.railway.app)
+
 ### [SportsBetSim](https://github.com/drtinkle/SportsBetSim) (Development on pause)
 
 A browser based betting simulator game built with React. An independent project designed to showcase what I learned from the courses:
