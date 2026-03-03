@@ -67,8 +67,11 @@ I have designed and developed several websites, each tailored to specific busine
 
 ## Main Tech Stack & Skills
 - **Languages:** C#, SQL, JavaScript, PHP, Python
-- **Frameworks:** React, Blazor, .NET, Unity
-- **Other Skills:** Data analysis, Excel & n8n automation
+- **Frameworks & Libraries:** FastAPI, React, Blazor, .NET, Unity
+- **AI & APIs:** LLM integration (Claude, OpenAI), REST API design & integration
+- **Backend & Data:** MySQL, database design, regex
+- **DevOps & Tools:** Docker, Git, Linux, n8n, CI/CD basics
+- **Other:** Workflow automation, Excel automation, Agile, Kanban
 
 Feel free to check out my projects and contributions. I'm always open to feedback, collaboration, and new opportunities!
 
