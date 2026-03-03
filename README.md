@@ -66,7 +66,7 @@ I have designed and developed several websites, each tailored to specific busine
 
 
 ## Main Tech Stack & Skills
-- **Languages:** C#, SQL, JavaScript, PHP
+- **Languages:** C#, SQL, JavaScript, PHP, Python
 - **Frameworks:** React, Blazor, .NET, Unity
 - **Other Skills:** Data analysis, Excel & n8n automation
 
