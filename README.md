@@ -44,7 +44,7 @@ My first independent project and a minimalist take on hockey in the form of a 2D
 Check out at [itch.io](https://drtinkle.itch.io/simple-hockey/)
 
 ### More Games
-More games I've created during various courses can be found at [sharemygame.com](https://sharemygame.com/@DrTinkle) and [itch.io](https://drtinkle.itch.io/).
+More games I've created during various courses can be found at [itch.io](https://drtinkle.itch.io/).
 
 ## Contributions
 
