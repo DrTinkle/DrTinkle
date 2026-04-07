@@ -16,7 +16,7 @@ The app analyzes a company domain, extracts website signals, generates structure
 A Python-based security log analysis tool built with FastAPI and the Anthropic Claude API.  
 The app parses Linux auth and Nginx access logs, detects suspicious patterns using a rule-based engine, and classifies threats on-demand using AI — outputting severity, threat type, and analyst explanations.
 
-[Live demo here](https://security-log-analyzer-production.up.railway.app)
+[Live demo here](https://security-log-analyzer-five.vercel.app/)
 
 ### [SportsBetSim](https://github.com/drtinkle/SportsBetSim) (On pause)
 
