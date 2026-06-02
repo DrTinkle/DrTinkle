@@ -51,14 +51,14 @@ For the SteamData project, I created the MySQL server on Azure Cloud, set up the
 
 I have designed and developed several websites, each tailored to specific business needs:
 
+- [build-tech-solutions.com](https://build-tech-solutions.com)  
+  A Next.js 16 site for a U.S.-based architectural and engineering outsourcing firm. Features large-scale programmatic SEO, CRM integration, and automated deployment.
+
 - [acornbusinessbuyers.com](https://acornbusinessbuyers.com)  
   This site includes the **City/State SEO Plugin** I developed, along with an admin area that allows the owners to manage seller profiles. The site also features financial detail calculations for various business buyout models (currently a work in progress).
 
 - [benergybuys.com](https://benergybuys.com)  
   A simplified version of Acorn Business Buyers with enhanced visuals. It also incorporates my **City/State SEO Plugin** for better local search optimization.
-
-- [glowo.net](https://glowo.net)  
-  A Finnish recruitment agency website. I maintained the front-end visuals and automated the article creation process to streamline content updates.
 
 
 ## Main Tech Stack & Skills
