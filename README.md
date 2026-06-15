@@ -4,19 +4,19 @@ Welcome to my GitHub! I'm passionate about coding and problem-solving. Below, yo
 
 ## Featured Projects
 
-### [AI-Powered Lead Enrichment](https://github.com/drtinkle/ai-lead-enrichment)
-
-A Python-based company enrichment and acquisition screening tool built with Streamlit and OpenAI.  
-The app analyzes a company domain, extracts website signals, generates structured AI insights and evaluates strategic fit using a weighted scoring model.
-
-[Live demo here](https://ai-lead-enrichment.streamlit.app/)
-
 ### [Security Log Analyzer](https://github.com/drtinkle/security-log-analyzer)
 
 A Python-based security log analysis tool built with FastAPI and the Anthropic Claude API.  
 The app parses Linux auth and Nginx access logs, detects suspicious patterns using a rule-based engine, and classifies threats on-demand using AI — outputting severity, threat type, and analyst explanations.
 
 [Live demo here](https://security-log-analyzer-five.vercel.app/)
+
+### [AI-Powered Lead Enrichment](https://github.com/drtinkle/ai-lead-enrichment)
+
+A Python-based company enrichment and acquisition screening tool built with Streamlit and OpenAI.  
+The app analyzes a company domain, extracts website signals, generates structured AI insights and evaluates strategic fit using a weighted scoring model.
+
+[Live demo here](https://ai-lead-enrichment.streamlit.app/)
 
 ### [SportsBetSim](https://github.com/drtinkle/SportsBetSim) (On pause)
 
