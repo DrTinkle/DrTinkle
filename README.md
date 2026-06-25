@@ -2,6 +2,8 @@
 
 Welcome to my GitHub! I'm passionate about coding and problem-solving. Below, you'll find a collection of my personal projects that reflect my interests in software development, game design, and data analysis.
 
+[Interactive CV](https://roykoljonen.com)
+
 ## Featured Projects
 
 ### [Security Log Analyzer](https://github.com/drtinkle/security-log-analyzer)
